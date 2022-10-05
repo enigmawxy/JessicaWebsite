@@ -1,0 +1,42 @@
+{
+  "name": "fgame.com",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "all": "^0.0.0",
+    "immutable": "^3.8.1",
+    "install": "^0.10.1",
+    "npm": "^5.3.0",
+    "react-ga": "^3.3.0",
+    "react-redux": "^7.2.9",
+    "react-router-dom": "^4.2.2",
+    "react-transition-group": "^2.2.0",
+    "redux": "^3.7.2",
+    "redux-thunk": "^2.2.0",
+    "scroll-to-element": "^2.0.0",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "react-scripts": "4.0.3",
+    "react-three-fiber": "^5.3.22",
+    "three": "^0.126.1",
+    "web-vitals": "^1.0.1"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
